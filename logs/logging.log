@@ -1,0 +1,192 @@
+[2022-01-14 18:39:10][INFO] Client request ARM
+[2022-01-15 21:16:13][INFO] Client request APP
+[2022-01-15 21:27:54][INFO] Client request BDB
+[2022-01-15 21:28:40][INFO] Client request API
+[2022-01-15 21:31:26][INFO] Client request API
+[2022-01-15 21:31:32][INFO] Client request API
+[2022-01-15 21:31:51][INFO] Client request API
+[2022-01-15 21:32:05][INFO] Client request API
+[2022-01-15 21:34:24][INFO] Client request API
+[2022-01-15 21:34:27][INFO] Client request AAV
+[2022-01-15 21:36:32][INFO] Client request AAV
+[2022-01-15 21:36:37][INFO] Client request API
+[2022-01-15 21:37:30][INFO] Client request API
+[2022-01-15 21:37:34][INFO] Client request AAV
+[2022-01-15 21:40:22][INFO] Client request AAV
+[2022-01-15 21:40:24][INFO] Client request AAV
+[2022-01-15 21:42:07][INFO] Client request AAV
+[2022-01-15 21:42:09][INFO] Client request AAV
+[2022-01-15 21:47:21][INFO] Client request AAV
+[2022-01-15 21:47:22][INFO] Client request AAV
+[2022-01-15 21:51:10][INFO] Client request AAV
+[2022-01-15 21:51:12][INFO] Client request AAV
+[2022-01-15 21:52:14][INFO] Client request AAV
+[2022-01-15 21:52:15][INFO] Client request AAV
+[2022-01-15 21:53:04][INFO] Client request AAV
+[2022-01-15 21:53:07][INFO] Client request AAV
+[2022-01-15 21:54:25][INFO] Client request AAV
+[2022-01-15 21:59:11][INFO] Client request AAV
+[2022-01-15 22:02:00][INFO] Client request AAV
+[2022-01-15 22:02:00][INFO] Client request AAV
+[2022-01-15 22:02:07][INFO] Client request AAV
+[2022-01-15 22:02:38][INFO] Client request AAV
+[2022-01-15 22:04:07][INFO] Client request AAV
+[2022-01-15 22:05:04][INFO] Client request AAV
+[2022-01-15 22:05:11][INFO] Client request AAV
+[2022-01-15 22:05:22][INFO] Client request AAV
+[2022-01-15 22:05:28][INFO] Client request AAV
+[2022-01-15 22:05:33][INFO] Client request AAV
+[2022-01-15 22:05:55][INFO] Client request AAV
+[2022-01-15 22:06:03][INFO] Client request AAV
+[2022-01-15 22:06:05][INFO] Client request AAV
+[2022-01-15 22:06:05][INFO] Client request AAV
+[2022-01-15 22:06:12][INFO] Client request API
+[2022-01-15 22:07:40][INFO] Client request API
+[2022-01-15 22:07:41][INFO] Client request API
+[2022-01-15 22:07:47][INFO] Client request API
+[2022-01-15 22:07:47][INFO] Client request API
+[2022-01-15 22:08:00][INFO] Client request API
+[2022-01-15 22:08:01][INFO] Client request API
+[2022-01-15 22:08:04][INFO] Client request API
+[2022-01-15 22:08:04][INFO] Client request API
+[2022-01-15 22:08:05][INFO] Client request API
+[2022-01-15 22:08:05][INFO] Client request API
+[2022-01-15 22:08:05][INFO] Client request API
+[2022-01-15 22:08:05][INFO] Client request API
+[2022-01-15 22:08:48][INFO] Client request API
+[2022-01-15 22:08:59][INFO] Client request API
+[2022-01-15 22:09:04][INFO] Client request API
+[2022-01-15 22:09:18][INFO] Client request API
+[2022-01-15 22:13:25][INFO] Client request API
+[2022-01-15 22:13:30][INFO] Client request APP
+[2022-01-15 22:13:34][INFO] Client request AAP
+[2022-01-15 22:14:37][INFO] Client request AAP
+[2022-01-15 22:14:46][INFO] Client request AAP
+[2022-01-15 22:14:50][INFO] Client request APP
+[2022-01-15 22:14:50][ERROR] Call api select APP failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:54:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:27:56][INFO] Client request APP
+[2022-01-15 22:28:00][INFO] Client request APP
+[2022-01-15 22:28:06][INFO] Client request AAV
+[2022-01-15 22:28:18][INFO] Client request AAV
+[2022-01-15 22:28:19][INFO] Client request AAV
+[2022-01-15 22:28:19][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:20][INFO] Client request AAV
+[2022-01-15 22:28:20][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:21][INFO] Client request AAV
+[2022-01-15 22:28:21][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:21][INFO] Client request AAV
+[2022-01-15 22:28:21][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:21][INFO] Client request AAV
+[2022-01-15 22:28:21][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:21][INFO] Client request AAV
+[2022-01-15 22:28:21][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:21][INFO] Client request AAV
+[2022-01-15 22:28:21][ERROR] Call api select AAV failed. Error: Error: Cannot enqueue Query after invoking quit.
+    at Protocol._validateEnqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:215:16)
+    at Protocol._enqueue (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\protocol\Protocol.js:138:13)
+    at Connection.query (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\mysql\lib\Connection.js:198:25)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\controllers\routes.js:37:8
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Material\20211\Project 3\Python-crawl-data-tool\vnindex-webapi\node_modules\express\lib\router\index.js:341:12)
+[2022-01-15 22:28:39][INFO] Client request AAV
+[2022-01-15 22:28:40][INFO] Client request AAV
+[2022-01-15 22:28:40][INFO] Client request AAV
+[2022-01-15 22:35:10][INFO] Client request AAV
+[2022-01-15 22:35:20][INFO] Client request APP
+[2022-01-15 22:35:27][INFO] Client request APP
+[2022-01-15 22:35:28][INFO] Client request APP
+[2022-01-15 22:35:29][INFO] Client request APP
+[2022-01-15 22:35:32][INFO] Client request AVV
+[2022-01-15 22:35:37][INFO] Client request AAV
+[2022-01-15 22:35:47][INFO] Client request AAV
+[2022-01-15 22:36:37][INFO] Client request AAV
+[2022-01-15 22:36:52][INFO] Client request AAV
+[2022-01-15 22:36:59][INFO] Client request AAV
+[2022-01-15 22:37:58][INFO] Client request AAV
+[2022-01-15 22:38:10][INFO] Client request AAV
+[2022-01-15 22:38:11][INFO] Client request AAV
+[2022-01-15 22:46:27][INFO] Client request AAV
+[2022-01-15 22:48:06][INFO] Client request AAV
+[2022-01-15 22:48:56][INFO] Client request AAV
+[2022-01-15 22:51:52][INFO] Client request AVL
+[2022-01-15 22:51:57][INFO] Client request AAV
+[2022-01-15 22:52:02][INFO] Client request API
+[2022-01-15 22:52:06][INFO] Client request APP
+[2022-01-15 22:52:10][INFO] Client request BDB
+[2022-01-15 22:54:00][INFO] Client request BDB
+[2022-01-15 22:54:04][INFO] Client request APP
+[2022-01-15 22:54:09][INFO] Client request AAV
